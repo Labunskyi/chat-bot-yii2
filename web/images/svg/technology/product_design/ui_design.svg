@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>User Interface_Upd</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="86.78333%" y1="76.0766107%" x2="6.61772951%" y2="4.08898977%" id="linearGradient-1">
+            <stop stop-color="#4A7BF1" offset="0%"></stop>
+            <stop stop-color="#1B50CE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="35.1873625%" y1="87.1113349%" x2="100%" y2="19.8103514%" id="linearGradient-2">
+            <stop stop-color="#4A7BF1" offset="0%"></stop>
+            <stop stop-color="#1B50CE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-17.8153842%" y1="50%" x2="100%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#5CE6FF" offset="0%"></stop>
+            <stop stop-color="#2FC8FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="User-Interface_Upd" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M4,48 L48,4 L48,48 L4,48 Z M27,39 L39,39 L39,27 L27,39 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+        <polygon id="Rectangle-25" fill="url(#linearGradient-2)" points="21.6984848 4 28.7695526 11.0710678 9.02081528 30.8198052 0.539063324 32.2375481 1.94974747 23.7487373"></polygon>
+        <path d="M28.8198052,1.12132034 L31.6482323,3.94974747 C32.8198052,5.12132034 32.8198052,7.02081528 31.6482323,8.19238816 L28.1126984,11.7279221 L21.0416306,4.65685425 L24.5771645,1.12132034 C25.7487373,-0.0502525317 27.6482323,-0.0502525317 28.8198052,1.12132034 Z" id="Rectangle-25" fill="url(#linearGradient-3)"></path>
+    </g>
+</svg>

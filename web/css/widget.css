@@ -1,0 +1,16 @@
+.widget-joinchat-wrapp{
+    text-align: center;
+}
+.widget-joinchat-wrapp a i{
+    font-size: 50px;
+    margin-right: 10px;
+}
+.widget-joinchat-wrapp a.tg-a-link i{
+    color: #32A9DF;
+}
+.widget-joinchat-wrapp a.ms-a-link i{
+    color: #009EFF;
+}
+.widget-joinchat-wrapp a.vb-a-link i{
+    color: #837BB9;
+}

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>Interactions_Upd</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="10.7067193%" y1="80.1656005%" x2="82.6943402%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#4A7BF1" offset="0%"></stop>
+            <stop stop-color="#1B50CE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-17.8153842%" y1="50%" x2="100%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#5CE6FF" offset="0%"></stop>
+            <stop stop-color="#2FC8FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-17.8153842%" y1="50%" x2="100%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#5CE6FF" offset="0%"></stop>
+            <stop stop-color="#37CDFF" offset="81.6302522%"></stop>
+            <stop stop-color="#34CBFF" offset="88.9931251%"></stop>
+            <stop stop-color="#2FC8FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Interactions_Upd" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M0,38 C0,32.4771525 4.47261992,28 10.0039454,28 L37.9960546,28 C43.5210811,28 48,32.4759382 48,38 C48,43.5228475 43.5273801,48 37.9960546,48 L10.0039454,48 C4.47891891,48 0,43.5240618 0,38 Z" id="Rectangle-2" fill="url(#linearGradient-1)"></path>
+        <rect id="Mask" fill="url(#linearGradient-2)" x="4" y="32" width="12" height="12" rx="6"></rect>
+        <path d="M0,10 C0,4.4771525 4.47261992,0 10.0039454,0 L37.9960546,0 C43.5210811,0 48,4.47593818 48,10 C48,15.5228475 43.5273801,20 37.9960546,20 L10.0039454,20 C4.47891891,20 0,15.5240618 0,10 Z" id="Rectangle-2-Copy" fill="url(#linearGradient-3)"></path>
+        <rect id="Mask-Copy" fill="url(#linearGradient-1)" x="32" y="4" width="12" height="12" rx="6"></rect>
+    </g>
+</svg>

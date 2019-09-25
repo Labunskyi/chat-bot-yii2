@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 60 60" style="enable-background:new 0 0 60 60;" xml:space="preserve" width="60px" height="60px">
+    <style type="text/css">
+        .st0 {
+            fill: #009688;
+        }
+
+        .st1 {
+            fill: #01655B;
+        }
+
+        .st2 {
+            fill: #ECECF1;
+        }
+
+        .st3 {
+            fill: #E2E2E7;
+        }
+
+    </style>
+    <path class="st0" d="M60,5.3v12.3l-3.5,3.5h-53L0,17.6V5.3c0-1,0.8-1.8,1.8-1.8h56.5C59.2,3.6,60,4.3,60,5.3z" />
+    <path class="st1" d="M60,5.3v12.3l-3.5,3.5H30V3.6h28.2C59.2,3.6,60,4.3,60,5.3z" />
+    <path class="st2" d="M60,17.6v37c0,1-0.8,1.8-1.8,1.8H1.8c-1,0-1.8-0.8-1.8-1.8v-37H60z" />
+    <path class="st3" d="M60,17.6v37c0,1-0.8,1.8-1.8,1.8H30V17.6H60z" />
+    <circle class="st3" cx="37.1" cy="12.4" r="1.8" />
+    <circle class="st3" cx="44.1" cy="12.4" r="1.8" />
+    <circle class="st3" cx="51.2" cy="12.4" r="1.8" />
+    <path class="st2" d="M26.5,14.1H8.9c-1,0-1.8-0.8-1.8-1.8s0.8-1.8,1.8-1.8h17.6c1,0,1.8,0.8,1.8,1.8S27.5,14.1,26.5,14.1z" />
+    <g>
+        <rect x="10.7" y="28.2" class="st0" width="7" height="17.6" />
+        <rect x="21.2" y="28.2" class="st0" width="28.1" height="3.5" />
+        <rect x="21.2" y="35.2" class="st0" width="7" height="10.5" />
+    </g>
+    <g>
+        <rect x="31.8" y="35.2" class="st1" width="7" height="10.5" />
+        <rect x="42.3" y="35.2" class="st1" width="7" height="10.5" />
+        <rect x="30" y="28.2" class="st1" width="19.3" height="3.5" />
+    </g>
+</svg>

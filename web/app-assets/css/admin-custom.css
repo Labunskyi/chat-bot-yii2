@@ -1,0 +1,243 @@
+.help-block.help-block-error{
+    color: #ae0505;
+}
+div.has-error input.form-control{
+    border: 1px solid #ffb0b0;
+}
+.alert.fade{
+    opacity: 1;
+    margin-bottom: 0;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+.line-on-side span {
+    line-height: 16px;
+}
+.menu-item .bot{
+    margin: -14px 0 0 0;
+}
+.menu-item p{
+    margin: 0;
+}
+.menu-item p:first-of-type{
+    margin: 0 !important;
+}
+.chat-body .or{
+    text-align: right;
+    position: relative;
+    display: block;
+    float: right;
+    margin: -3px 20px -1px 0;
+    clear: both;
+}
+
+.grid-view .chats .chat-body .chat-content {
+    padding: 4px 12px !important;
+    margin: 0 20px 0 0 !important;
+}
+
+.pagination li a, .pagination li span {
+    color: #1E9FF2;
+    border: 1px solid #BABFC7;
+    display: block;
+    margin-left: -1px;
+    line-height: 1.25;
+    background-color: #FFF;
+    padding: .5rem .75rem;
+    position: relative;
+}
+
+.pagination li:last-child a, .pagination li:last-child span {
+    border-top-right-radius: .25rem;
+    border-bottom-right-radius: .25rem;
+}
+.pagination li:first-child a, .pagination li:first-child span {
+    margin-left: 0;
+    border-top-left-radius: .25rem;
+    border-bottom-left-radius: .25rem;
+}
+
+.pagination li span {
+    color: #6B6F82;
+    pointer-events: none;
+    cursor: auto;
+    background-color: #FFF;
+}
+
+.pagination li.active a {
+    z-index: 1;
+    color: #FFF;
+    background-color: #1E9FF2;
+    border-color: #1E9FF2;
+}
+ul.pagination{
+    display: inline-flex;
+    margin: 0 !important;
+}
+
+a.asc:after {
+    content: "\f0de";
+}
+a.desc:after {
+    content: "\f0dd";
+}
+
+a.asc:after, a.desc:after {
+    position: relative;
+    display: inline-block;
+    font-family: 'FontAwesome';
+    font-style: normal;
+    font-weight: normal;
+    padding-left: 5px;
+    /*float: right;*/
+}
+.margin-left-12{
+    margin-left: -12px;
+}
+.row-column-middle td, .row-column-middle th{
+    vertical-align:middle !important;
+    text-align: center !important;
+}
+.green{
+    color: green !important;
+}
+.show>.dropdown-menu {
+    width: fit-content;
+}
+.bots-list-avatars{
+    display: inline-block!important;
+    vertical-align: middle!important;
+}
+.fix-item-navmenu{
+    padding: .5rem 1rem !important;
+}
+.left-menu-container{
+    margin-top: 15px !important;
+    background: transparent!important;
+    box-shadow: none!important;
+    border: 0!important;
+}
+.left-menu-container.main-menu.menu-light .navigation>li.active>a,.left-menu-container.main-menu.menu-light .navigation>li.open>a{
+    color: #6B6F82;
+    background: transparent;
+    border-left: 6px solid #1E9FF2 !important;
+    border: 0;
+}
+.background-transparent{
+    background: transparent !important;
+}
+#form-add .help-block{
+    position: absolute;
+}
+.custom-selectize-input .selectize-input > input::placeholder {
+    color:#CACFE7;
+    font-size: 14px;
+}
+.custom-selectize-input .selectize-input > input{
+    width: 100%!important;
+}
+
+.custom-selectize-input .selectize-input{
+    display: block !important;
+    width: 100%!important;
+    padding: .75rem 1rem!important;
+    margin: 0!important;
+    font-size: 1rem!important;
+    line-height: 1.25!important;
+    background-color: #FFF!important;
+    background-clip: padding-box!important;
+    border: 1px solid #CACFE7!important;
+    color: #3B4781!important;
+    border-radius: .25rem!important;
+    -webkit-transition: border-color .15s ease-in-out,-webkit-box-shadow .15s ease-in-out!important;
+    -o-transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out!important;
+    -moz-transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out!important;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out!important;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out,-webkit-box-shadow .15s ease-in-out!important;
+}
+.has-error .custom-selectize-input .selectize-input{
+    border: 1px solid #ffb0b0!important;
+}
+#form-add{
+    display: flex;align-items: center; margin-bottom: 15px; max-height:300px;
+}
+#form-add textarea{
+    max-height: calc( 300px - 25px );
+}
+.custom-list .list-group-item{
+    padding: 10px 20px;
+}
+.bug-list-search form .form-group{
+    margin: 0;
+}
+ul.multiselect-container.dropdown-menu.show{
+    width: 100%;
+}
+label{
+    margin: 3px 0 3px 5px !important;
+    vertical-align: middle !important;
+    cursor: pointer !important;
+}
+input[type=radio], input[type=checkbox]{
+    width: 20px !important;
+    height: 20px !important;
+    vertical-align: middle !important;
+    cursor: pointer !important;
+}
+.fix-form .form-group{
+    margin: 0;
+}
+.form-group .la{
+    vertical-align: middle;
+}
+.icon.expand-icon.la{
+    vertical-align: middle;
+    font-size: 18px;
+    width: auto;
+    margin-right: 0;
+}
+.btn .username-bot-widget{
+    display: block;
+    margin-top: 5px;
+}
+.btn img{
+    border-radius: 50%;
+}
+.setup-code-widget{
+    padding: 30px;
+    background-color: #eff2f6;
+}
+.setup-code-widget pre{
+    margin: 0;
+    padding: 0 0 0 36px;
+    border-left: 3px solid #1E9FF2;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    background-color: transparent;
+    font-size: 14px;
+}
+input[type=checkbox]:checked+img.img-thumbnail {
+    background-color: #22B07D;
+    border-color: #20A576;
+}
+.main-menu.menu-light .navigation > li > ul.menu-content{
+    background:transparent;
+}
+.main-menu.menu-light .navigation > li .active > a.menu-item,
+.main-menu.menu-light .navigation > li .active > a.menu-item i,
+.main-menu.menu-light .navigation > li .active > a.menu-item span{
+    background: transparent;
+    font-weight: bold;
+    color: #696767;
+}
+body.vertical-layout.vertical-menu-modern.menu-collapsed .main-menu > div > ul.navigation{
+    margin-right: 5px;
+    margin-top: 5px;
+}
+
+body.vertical-layout.vertical-menu-modern.menu-collapsed .main-menu.expanded > div > ul.navigation{
+    background: #fffffff5 !important;
+    box-shadow: 0 0 5px 3px #0000002e;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>Tech/Sinatra</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-17.8153842%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#5CE6FF" offset="0%"></stop>
+            <stop stop-color="#2FC8FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="10.7067193%" y1="80.1656005%" x2="82.6943402%" y2="0%" id="linearGradient-2">
+            <stop stop-color="#4A7BF1" offset="0%"></stop>
+            <stop stop-color="#1B50CE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Tech/Sinatra" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M7.89896265,26 L9.2900788,25.9154435 L40.7258964,25.9154435 L42.1039557,26 C42.3589509,32.6666667 36.802786,36 25.4354608,36 C14.0681357,36 8.22263629,32.6666667 7.89896265,26 Z" id="Path" fill="url(#linearGradient-1)"></path>
+        <path d="M15.5886521,10 C20.2452187,10 21.491318,11.4865806 25.0000001,11.4865804 C28.5086822,11.4865802 29.7547814,10 34.4113479,10 C37.2160073,10 40.5966,25.2952613 40.7336406,25.9205944 C40.7143535,25.9403055 36.3862563,30.7582138 25.0000001,30.7582138 C13.613744,30.7582138 9.28564679,25.9403055 9.28564679,25.9403055 C9.40340088,25.2952571 12.7839931,10 15.5886521,10 Z M7.89773236,25.9807635 C5.47390132,26.1132472 0.625728985,26.6753241 0.152638037,29.0487347 C-1.65896287,38.1372044 13.0164631,42 25.0000001,42 C36.983537,42 51.6589628,38.1372042 49.847362,29.0487347 C49.374271,26.6753241 44.526099,26.1132473 42.1022679,25.9807637 C41.4437015,29.1133847 38.4562735,35.6221918 25.0000001,35.6221918 C11.5437268,35.6221918 8.55629871,29.1133847 7.89773236,25.9807635 Z" id="Shape" fill="url(#linearGradient-2)" fill-rule="nonzero"></path>
+    </g>
+</svg>

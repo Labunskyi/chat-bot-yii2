@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <linearGradient id="a" x1="8.456%" x2="85.356%" y1="8.341%" y2="83.771%">
+      <stop stop-color="#5CE6FF" offset="0%"/>
+      <stop stop-color="#2FC8FF" offset="100%"/>
+    </linearGradient>
+    <linearGradient id="b" x1="0%" x2="84.335%" y1="0%" y2="84.766%">
+      <stop stop-color="#458DEA" offset="0%"/>
+      <stop stop-color="#2154CF" offset="100%"/>
+    </linearGradient>
+    <linearGradient id="c" x1="-12.714%" x2="83.353%" y1="-7.84%" y2="83.423%">
+      <stop stop-color="#2C66BE" offset="0%"/>
+      <stop stop-color="#143689" offset="100%"/>
+    </linearGradient>
+    <linearGradient id="d" x1="-17.815%" y1="50%" y2="50%">
+      <stop stop-color="#5CE6FF" offset="0%"/>
+      <stop stop-color="#2FC8FF" offset="100%"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <rect width="52" height="52" x="8" y="8" fill="url(#a)" rx="3"/>
+    <rect width="52" height="52" fill="url(#b)" rx="3"/>
+    <rect width="38" height="38" x="7" y="7" fill="url(#c)" rx="19"/>
+    <path fill="url(#d)" d="M26,7 C33.4061414,7 39.8225696,11.2363162 42.9570544,17.4191518 L26,26 L26,7 L26,7 Z"/>
+  </g>
+</svg>

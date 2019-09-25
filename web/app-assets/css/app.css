@@ -1,0 +1,13 @@
+@import url("bootstrap-extended.css");
+@import url("colors.css");
+@import url("components.css");
+@font-face {
+    font-family: feather;
+    src: url(fonts/feather.eot?9xfrq8);
+    src: url(fonts/feather.eot?9xfrq8) format('embedded-opentype'), url(fonts/feather.ttf?9xfrq8) format('truetype'), url(fonts/feather.woff?9xfrq8) format('woff'), url(fonts/feather.svg?9xfrq8) format('svg');
+    font-weight: 400;
+    font-style: normal
+}
+ul.select2-selection__rendered{
+    padding-bottom: 5px;
+}

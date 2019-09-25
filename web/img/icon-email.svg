@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="23px" viewBox="0 0 33 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-email</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="-77.5686553%" x2="128.70886%" y2="177.24438%" id="linearGradient-1">
+            <stop stop-color="#FF7343" offset="0%"></stop>
+            <stop stop-color="#FF3355" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="FOOTER-alt" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1251.000000, -139.000000)" opacity="0.949999988">
+        <g id="SOME-&amp;-UPDATES" transform="translate(134.000000, 84.000000)" fill="url(#linearGradient-1)">
+            <g id="SOCIAL" transform="translate(900.000000, 0.000000)">
+                <path d="M249.973366,76.1981567 L240.358354,66.5794931 L250,57.0138249 L250,76.1981567 L249.973366,76.1981567 L249.973366,76.1981567 Z M218.731235,78 L228.42615,68.3548387 L230.556901,70.4481567 C231.355932,71.2430876 232.31477,71.7730415 233.486683,71.7730415 C234.658596,71.7730415 235.617433,71.2430876 236.416465,70.4481567 L238.547215,68.3548387 L248.242131,78 L218.731235,78 L218.731235,78 L218.731235,78 Z M248.2954,55 L234.472155,68.8052995 C234.205811,69.0702765 233.966102,69.2292627 233.486683,69.2292627 C233.007264,69.2292627 232.767554,69.0702765 232.501211,68.8052995 L218.677966,55 L248.2954,55 L248.2954,55 L248.2954,55 Z M217,57.0138249 L226.641646,66.5794931 L217,76.1981567 L217,57.0138249 L217,57.0138249 L217,57.0138249 Z" id="icon-email"></path>
+            </g>
+        </g>
+    </g>
+</svg>

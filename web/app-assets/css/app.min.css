@@ -1,0 +1,9 @@
+@import url('bootstrap-extended.min.css');
+@import url('colors.min.css');
+@import url('components.min.css');
+body ul.select2-selection__rendered{
+    padding-bottom: 5px !important;
+}
+table tr > td{
+    word-break: break-all;
+}

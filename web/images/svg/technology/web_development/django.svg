@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>Tech/Django</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="10.7067193%" y1="80.1656005%" x2="82.6943402%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#4A7BF1" offset="0%"></stop>
+            <stop stop-color="#1B50CE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-17.8153842%" y1="50%" x2="100%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#5CE6FF" offset="0%"></stop>
+            <stop stop-color="#2FC8FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Tech/Django" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M22.0947388,0 L30.0294118,0 L30.0294118,37.776138 C25.9651221,38.5746949 22.9731258,38.8888889 19.7358424,38.8888889 C10.0446934,38.8783693 5,34.3811106 5,25.7437935 C5,17.4217532 10.3510417,12.0207421 18.6431457,12.0207421 C19.9298977,12.0207421 20.9101526,12.1259375 22.0947388,12.4410596 L22.0947388,0 Z M22.3727905,19.24875 C21.4434696,18.9334732 20.6776734,18.8284325 19.6972696,18.8284325 C15.6840628,18.8284325 13.3659731,21.3712222 13.3659731,25.8274857 C13.3659731,30.1661778 15.5820461,32.5618487 19.6463357,32.5618487 C20.5244248,32.5618487 21.239287,32.5104886 22.3727905,32.3528502 L22.3727905,19.24875 Z" id="Shape" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+        <path d="M42,12.9476195 L42,31.7348827 C42,38.2048508 41.5440543,41.3162133 40.2058522,43.9987031 C38.9568443,46.5776243 37.3114499,48.2038367 33.9115174,50 L26.7647059,46.42012 C30.1646383,44.7405866 31.8100328,43.2565122 32.8608474,40.9916776 C33.9609573,38.6756733 34.307904,35.9931835 34.307904,28.9376068 L34.307904,12.9477731 L42,12.9476195 Z M34.3055474,0 L42.0074735,0 L42.0074735,8.31853049 L34.3055474,8.31853049 L34.3055474,0 Z" id="Shape" fill="url(#linearGradient-2)" fill-rule="nonzero"></path>
+    </g>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <linearGradient id="a" x1="-21.89%" y1="65.704%" y2="50%">
+      <stop stop-color="#2C66BE" offset="0%"/>
+      <stop stop-color="#143689" offset="100%"/>
+    </linearGradient>
+    <linearGradient id="b" x1="-16.831%" y1="37.803%" y2="37.803%">
+      <stop stop-color="#2B74CB" offset="0%"/>
+      <stop stop-color="#1246BC" offset="100%"/>
+    </linearGradient>
+    <linearGradient id="c" x1="-16.831%" y1="37.803%" y2="37.803%">
+      <stop stop-color="#418EEA" offset="0%"/>
+      <stop stop-color="#1F55D0" offset="100%"/>
+    </linearGradient>
+    <linearGradient id="d" x1="-16.952%" x2="80.371%" y1="-18.99%" y2="82.865%">
+      <stop stop-color="#5CE6FF" offset="0%"/>
+      <stop stop-color="#2FC8FF" offset="100%"/>
+    </linearGradient>
+    <linearGradient id="e" x1="-26.501%" x2="72.839%" y1="0%" y2="70.288%">
+      <stop stop-color="#418EEA" offset="0%"/>
+      <stop stop-color="#1F55D0" offset="100%"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <rect width="60" height="32" y="24" fill="url(#a)" rx="3"/>
+    <rect width="60" height="32" y="18" fill="url(#b)" rx="3"/>
+    <rect width="60" height="32" y="11" fill="url(#c)" rx="3"/>
+    <rect width="60" height="32" y="4" fill="url(#d)" rx="2"/>
+    <circle cx="31" cy="20" r="10" fill="url(#e)"/>
+    <circle cx="13.5" cy="20.5" r="2.5" fill="url(#c)"/>
+    <circle cx="48.5" cy="20.5" r="2.5" fill="url(#c)"/>
+  </g>
+</svg>

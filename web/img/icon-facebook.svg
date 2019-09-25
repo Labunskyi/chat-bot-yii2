@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="33px" viewBox="0 0 18 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-facebook</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="-77.5686553%" x2="128.70886%" y2="177.24438%" id="linearGradient-1">
+            <stop stop-color="#FF7343" offset="0%"></stop>
+            <stop stop-color="#FF3355" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="FOOTER-alt" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1035.000000, -130.000000)" opacity="0.949999988">
+        <g id="SOME-&amp;-UPDATES" transform="translate(134.000000, 84.000000)" fill="url(#linearGradient-1)">
+            <g id="SOCIAL" transform="translate(900.000000, 0.000000)">
+                <path d="M12.6834483,79 L12.6834483,63.9472381 L17.9905327,63.9472381 L18.7850733,58.0808045 L12.6834483,58.0808045 L12.6834483,54.3353458 C12.6834483,52.6368764 13.1787742,51.4794646 15.7370908,51.4794646 L19,51.4780082 L19,46.2311328 C18.4355305,46.1597686 16.4987422,46 14.2454533,46 C9.54108169,46 6.32054594,48.7338338 6.32054594,53.7545281 L6.32054594,58.0808045 L1,58.0808045 L1,63.9472381 L6.32054594,63.9472381 L6.32054594,79 L12.6834483,79 Z" id="icon-facebook"></path>
+            </g>
+        </g>
+    </g>
+</svg>

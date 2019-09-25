@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="39px" height="39px" viewBox="0 0 39 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>plus</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="39" height="39"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="plus">
+            <path d="M19.5,36.3904404 C28.2679595,36.3904404 35.3904404,29.010916 35.3904404,19.8904404 C35.3904404,10.7699647 28.2679595,3.39044039 19.5,3.39044039 C10.7320405,3.39044039 3.60955961,10.7699647 3.60955961,19.8904404 C3.60955961,29.010916 10.7320405,36.3904404 19.5,36.3904404 Z" id="Background-Copy" stroke="#DEDEDE" stroke-width="2" opacity="0.3" transform="translate(19.500000, 19.890440) rotate(-90.000000) translate(-19.500000, -19.890440) "></path>
+            <g id="Rectangle">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <rect stroke-opacity="0.01" stroke="#FFFFFF" stroke-width="1" x="0.5" y="0.5" width="38" height="38"></rect>
+            </g>
+            <path d="M19.5,36.3904404 C28.2679595,36.3904404 35.3904404,29.010916 35.3904404,19.8904404 C35.3904404,10.7699647 28.2679595,3.39044039 19.5,3.39044039 C10.7320405,3.39044039 3.60955961,10.7699647 3.60955961,19.8904404 C3.60955961,29.010916 10.7320405,36.3904404 19.5,36.3904404 Z" id="Background-Copy-2" stroke="#DEDEDE" stroke-width="2" transform="translate(19.500000, 19.890440) rotate(-90.000000) translate(-19.500000, -19.890440) "></path>
+            <path d="M13.5,20 L26.5,20" id="Line-Copy-8" stroke="#DEDEDE" stroke-width="2" stroke-linecap="square"></path>
+            <path d="M20,26 L20,13" id="Line-Copy-14" stroke="#DEDEDE" stroke-width="2" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>
